@@ -1,0 +1,49 @@
+.list_box{
+    margin-top: 20px;
+}
+.list_box ul{
+    margin-bottom: 20px;
+}
+.list_box ul li{
+    float: left;
+}
+.list_box ul li a{
+    display: inline-block;
+    padding: 10px 70px;
+    text-align: center;
+    border: #0073be 1px solid;
+    font-family: '微软雅黑';
+    font-size: 17px;
+    border-radius: 4px 4px 0 0;
+    color: #0e7ac0;
+}
+.ri_none{
+    border-right: none!important;
+}
+.list_box .nav_active {
+    background-color: #0073be;
+    color: #fff;
+}
+.block{
+      display: inline-block;
+  }
+.w100{
+    width: 90%;
+}
+.w50{
+    width: 45%;
+}
+.box{
+    margin-bottom: 20px;
+}
+.box2{
+    float: left;
+    margin-bottom: 10px;
+}
+.box1 h3{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    background: url("http://www.dllawson.com.cn/assets/tabpanel-title-bg-4c414251750622f07ecaf95587d8001215ecddd1c564e93584a7677cdd32f3f0.jpg") no-repeat;
+    color: #0073be;
+    font-size: 15px;
+}

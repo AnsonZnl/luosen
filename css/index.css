@@ -1,0 +1,18 @@
+.swiper-pagination-bullet-active{
+    background: #fff;
+}
+.swiper-pagination-bullet{
+    width: 13px;
+    height: 13px;
+}
+.home-links{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.home-links .home-li{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.home-links ul li{
+    float: left;
+}

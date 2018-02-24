@@ -1,0 +1,32 @@
+.blue-box {
+    border: 10px solid #E5F5FE;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.blue-box .title{
+    background-color: #0073be;
+    color: #fff;
+}
+.blue-box .title span{
+    display: inline-block;
+    height: 38px;
+    width: 45%;
+    padding-left: 10px;
+    line-height: 38px;
+    color: #fff;
+    font-size: 17px;
+}
+.blue-box li{
+    border-bottom: solid #ddd 1px;
+}
+.blue-box li span{
+    display: inline-block;
+    width: 45%;
+    height: 38px;
+    padding-left: 10px;
+    line-height: 38px;
+}
+.blue-box li span img{
+    display: inline-block;
+    width: 15px;
+}
